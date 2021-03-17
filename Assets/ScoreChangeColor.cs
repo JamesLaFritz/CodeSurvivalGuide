@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 
 [RequireComponent(typeof(Renderer))]
-public class Player : MonoBehaviour
+public class ScoreChangeColor : MonoBehaviour
 {
     // Create a program that when you hit the space key, you increment the score value.
     // When the score value is > 50 turn the cube green
