@@ -10,6 +10,7 @@
         <e p="QuizCalculator.cs" t="Include" />
         <e p="ScoreChangeColor.cs" t="Include" />
         <e p="SpeedChange.cs" t="Include" />
+        <e p="SwitchChalange1.cs" t="Include" />
         <e p="TipCalculator.cs" t="Include" />
       </e>
       <e p="CodeSurvivalGuide.sln" t="IncludeFlat" />

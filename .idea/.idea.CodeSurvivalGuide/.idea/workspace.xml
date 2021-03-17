@@ -4,7 +4,6 @@
     <list default="true" id="dfccf135-77ab-42d1-91a6-27da13af8ec1" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.CodeSurvivalGuide/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.CodeSurvivalGuide/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.CodeSurvivalGuide/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.CodeSurvivalGuide/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,6 +20,7 @@
     <setting file="file://$PROJECT_DIR$/Assets/QuizCalculator.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/../TipCaculator/Assets/Scripts/TipCalculator.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/LevelSelection.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/SwitchChalange1.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/SpeedChange.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
@@ -32,6 +32,7 @@
         <option value="$PROJECT_DIR$/Assets/ScoreChangeColor.cs" />
         <option value="$PROJECT_DIR$/Assets/SpeedChange.cs" />
         <option value="$PROJECT_DIR$/Assets/LevelSelection.cs" />
+        <option value="$PROJECT_DIR$/Assets/SwitchChalange1.cs" />
       </list>
     </option>
   </component>
@@ -81,7 +82,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1616014113989</updated>
-      <workItem from="1616014117188" duration="2895000" />
+      <workItem from="1616014117188" duration="3398000" />
     </task>
     <servers />
   </component>
