@@ -328,10 +328,10 @@ MonoBehaviour:
   m_GameObject: {fileID: 2136552459}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 9d895c9f1f54ac84499c56b0d74fffe8, type: 3}
+  m_Script: {fileID: 11500000, guid: 5c89b358000c1224ca2f34146afdc74a, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  points: 0
+  selectedColor: 1
 --- !u!65 &2136552461
 BoxCollider:
   m_ObjectHideFlags: 0
