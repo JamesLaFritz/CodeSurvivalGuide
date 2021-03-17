@@ -13,6 +13,7 @@
         <e p="SwitchChalange1.cs" t="Include" />
         <e p="SwitchChallenge2.cs" t="Include" />
         <e p="TipCalculator.cs" t="Include" />
+        <e p="WeaponSelector.cs" t="Include" />
       </e>
       <e p="CodeSurvivalGuide.sln" t="IncludeFlat" />
       <e p="obj" t="ExcludeRecursive" />
