@@ -308,10 +308,10 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 2136552464}
+  - component: {fileID: 2136552460}
   - component: {fileID: 2136552463}
   - component: {fileID: 2136552462}
   - component: {fileID: 2136552461}
-  - component: {fileID: 2136552460}
   m_Layer: 0
   m_Name: Player
   m_TagString: Untagged
@@ -328,11 +328,10 @@ MonoBehaviour:
   m_GameObject: {fileID: 2136552459}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: e69ee5bb23a31804dbb99170e9b33427, type: 3}
+  m_Script: {fileID: 11500000, guid: 94d84e4052b01e84f8ff46bbd56cbfff, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  maxHealth: 100
-  currentHealth: 0
+  positions: []
 --- !u!65 &2136552461
 BoxCollider:
   m_ObjectHideFlags: 0

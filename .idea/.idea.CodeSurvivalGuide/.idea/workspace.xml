@@ -4,11 +4,22 @@
     <list default="true" id="dfccf135-77ab-42d1-91a6-27da13af8ec1" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.CodeSurvivalGuide/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.CodeSurvivalGuide/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.CodeSurvivalGuide/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.CodeSurvivalGuide/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/FunctionVsMethod.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/FunctionVsMethod.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ObjectColorChanger.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ObjectColorChanger.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/LevelSelection.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/LevelSelection.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/QuizCalculator.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/QuizCalculator.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ScoreChangeColor.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ScoreChangeColor.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SpeedChange.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SpeedChange.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SwitchChalange1.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SwitchChalange1.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SwitchChallenge2.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SwitchChallenge2.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TipCalculator.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TipCalculator.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/WeaponSelector.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/WeaponSelector.cs.meta" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,16 +30,10 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/Assets/ScoreChangeColor.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/../TipCaculator/Assets/Scripts/TipCalculator.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/LevelSelection.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/SwitchChalange1.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/SpeedChange.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/TipCalculator.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Function Vs Method/PositionMatters.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Function Vs Method/AreYouAlive.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/SwitchChallenge2.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/QuizCalculator.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/WeaponSelector.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -45,6 +50,8 @@
         <option value="$PROJECT_DIR$/Assets/FunctionVsMethod.cs" />
         <option value="$PROJECT_DIR$/Assets/ObjectColorChanger.cs" />
         <option value="$PROJECT_DIR$/Assets/AreYouAlive.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Function Vs Method/AreYouAlive.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Function Vs Method/PositionMatters.cs" />
       </list>
     </option>
   </component>
@@ -95,7 +102,7 @@
       <option name="presentableId" value="Default" />
       <updated>1616014113989</updated>
       <workItem from="1616014117188" duration="5006000" />
-      <workItem from="1616385197269" duration="5816000" />
+      <workItem from="1616385197269" duration="7483000" />
     </task>
     <servers />
   </component>
