@@ -22,7 +22,9 @@
     <setting file="file://$PROJECT_DIR$/Assets/WeaponSelector.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/../TipCaculator/Assets/Scripts/TipCalculator.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/LevelSelection.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/ObjectColorChanger.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/SwitchChalange1.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/FunctionVsMethod.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/SpeedChange.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
@@ -37,6 +39,8 @@
         <option value="$PROJECT_DIR$/Assets/SwitchChalange1.cs" />
         <option value="$PROJECT_DIR$/Assets/SwitchChallenge2.cs" />
         <option value="$PROJECT_DIR$/Assets/WeaponSelector.cs" />
+        <option value="$PROJECT_DIR$/Assets/FunctionVsMethod.cs" />
+        <option value="$PROJECT_DIR$/Assets/ObjectColorChanger.cs" />
       </list>
     </option>
   </component>
@@ -86,7 +90,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1616014113989</updated>
-      <workItem from="1616014117188" duration="4840000" />
+      <workItem from="1616014117188" duration="5006000" />
+      <workItem from="1616385197269" duration="4490000" />
     </task>
     <servers />
   </component>

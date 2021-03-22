@@ -6,7 +6,9 @@
     <e p="C:\Users\James\Documents\GameDevHQ\Unity Projects\CodeSurvivalGuide" t="IncludeRecursive">
       <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
       <e p="Assets" t="Include">
+        <e p="FunctionVsMethod.cs" t="Include" />
         <e p="LevelSelection.cs" t="Include" />
+        <e p="ObjectColorChanger.cs" t="Include" />
         <e p="QuizCalculator.cs" t="Include" />
         <e p="ScoreChangeColor.cs" t="Include" />
         <e p="SpeedChange.cs" t="Include" />
